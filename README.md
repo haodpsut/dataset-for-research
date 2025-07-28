@@ -1,4 +1,4 @@
-# dataset-for-research
+# Dataset-for-research
 
 ## 1. Dataset mà mình hay làm về network: 
 Edge-IIoTset: A New Comprehensive Realistic Cyber Security Dataset of IoT and IIoT Applications: Centralized and Federated Learning
@@ -35,7 +35,7 @@ tên dataset: Dataset Description: Channel coefficients of multiple users connec
 
 paper: CVaR-based Robust Beamforming Framework for Massive MIMO LEO Satellite Communications
 
-https://fnr-smartspace-project.uni.lu/leo-satellite-channel/?utm_source=chatgpt.com
+https://fnr-smartspace-project.uni.lu/leo-satellite-channel
 
 Phù hợp: thiết kế beamforming, nghiên cứu scheduling/kênh cho giảm delay trong mạng vệ tinh trong môi trường vật lý.
 
@@ -44,7 +44,7 @@ Dataset từ dự án COMMECT của Aalborg University, gồm các KPI đo laten
 
 Radio KPI & Latency Measurement of Cellular and Satellite Networks for Evaluating Multi-Connectivity Solutions in Livestock Transport Monitoring in Rural Areas
 
-https://zenodo.org/records/14620779?utm_source=chatgpt.com
+https://zenodo.org/records/14620779
 
 Phù hợp: so sánh performance giữa hai loại kết nối, tối ưu chuyển đổi (handover), multi‑connectivity để giảm độ trễ hệ thống.
 
