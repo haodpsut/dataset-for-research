@@ -39,7 +39,7 @@ https://fnr-smartspace-project.uni.lu/leo-satellite-channel/?utm_source=chatgpt.
 
 Phù hợp: thiết kế beamforming, nghiên cứu scheduling/kênh cho giảm delay trong mạng vệ tinh trong môi trường vật lý.
 
-5. Radio KPI & Latency Measurement for Satellite + 5G (Danimarca)
+## 5. Radio KPI & Latency Measurement for Satellite + 5G (Danimarca)
 Dataset từ dự án COMMECT của Aalborg University, gồm các KPI đo latency, throughput từ cả kết nối 5G NSA và kết nối vệ tinh, trong môi trường thực địa phục vụ giám sát vận chuyển gia súc tại vùng nông thôn Đan Mạch 
 
 Radio KPI & Latency Measurement of Cellular and Satellite Networks for Evaluating Multi-Connectivity Solutions in Livestock Transport Monitoring in Rural Areas
